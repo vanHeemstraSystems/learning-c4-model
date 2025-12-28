@@ -1,5 +1,5 @@
-c4-model
-# C4 Model
+learning-c4-model
+# Learning C4 Model
 
 Based on "C4-PlantUML" at https://github.com/plantuml-stdlib/C4-PlantUML
 
